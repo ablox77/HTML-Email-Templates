@@ -1,0 +1,180 @@
+<mjml>
+    <mj-head>
+        <mj-style inline="inline">
+            .anchor a {
+                color: rgb(147,112,49);
+            }
+            .anchor-no-underline a {
+                color: rgb(147,112,49);
+                text-decoration: none;
+            }
+            .footer-icons {
+                max-width: 150px;
+            }
+        </mj-style>
+        <mj-style>
+            @media only screen and (max-width:480px) {
+                .small-screens {
+                    width: 80%!important;
+                }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body background-color="#d3d3d3">
+        <mj-section padding="0" background-color="#f7f6f1">
+            <mj-column padding="20px 0 50px 0">
+                <mj-image src="https://i.postimg.cc/5tX5jxfL/header-logo.png" alt="Peet's Coffee Logo" href="http://example.com" width="152px" padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#f7f6f1">
+            <mj-column padding="0 0 40px 0">
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="24px" color="rgb(147,112,49)" text-transform="uppercase" padding="0 0 10px 0">
+                    Last Chance:
+                </mj-text>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="24px" color="rgb(147,112,49)" text-transform="uppercase"  padding="0">
+                    10% Off + Free Shipping
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#f7f6f1">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/BQCBVYhL/hero-img1.jpg" alt="Pourover Coffee Image" href="http://example.com" width="600px" padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="0 0 30px 0" css-class="small-screens" width="90%">
+                <mj-text align="center" font-family="serif, helvetica" font-size="16px" padding="25px 0 25px 0" color="#191919">
+                    Today's the last day to redeem your welcome offer. Save 10% Off&nbsp; &amp; get Free Shipping&nbsp;on ultra-fresh coffees, fine teas, and more with your exclusive promo code.
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="16px" padding="0">
+                    Use code <strong>WLC-2xb6qv</strong>
+                </mj-text>
+                <mj-button font-family="arial, sans-serif, helvetica" font-size="13px" color="#ffffff" background-color="#937031" text-transform="uppercase" border-radius="5px" inner-padding="10px 20px" padding="30px 0" href="http://example.com">
+                    Shop Now
+                </mj-button>
+                <mj-text align="center" font-family="ariel, sans-serif, helvetica" font-size="12px" padding="0" color="#646464" css-class="anchor">
+                    Valid online only at <a href="http://example.com" target="blank">www.peets.com</a>. Code expires today, 8/25/2023.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="0 0 30px 0">
+                <mj-divider border-color="#d8d8d8" border-width="1px" />
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="22px" color="#222222" text-transform="uppercase" padding="30px 0 0 0">
+                    Explore Our Bestsellers
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/HLN2tr66/major-dickason-coffee.jpg" alt="Major Dickason's Blend Coffee Image" href="http://example.com" width="200px" padding="0" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/C5GsYmS2/arabian-mocha-java-coffee.jpg" alt="Arabian Mocha-Java Coffee Image" href="http://example.com" width="200px" padding="0"/>
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/vTFtppF9/recchezza-espresso-coffee.jpg" alt="Ricchezza Espresso Capsules Coffee Image" href="http://example.com" width="200px" padding="0"/>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="30px 0 0 0" background-color="#ffffff">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/3JhZ95ZQ/start-sub-img.jpg" alt="Start a coffee subscription image" href="http://example.com" width="600px" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#937031">
+            <mj-column padding="0" width="90%">
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="#f7f6f1" background-color="#937031" text-transform="uppercase" padding="15px 0">
+                    RECEIVE 15% OFF YOUR FIRST SHIPMENT, PLUS- SUBSCRIPTIONS ALWAYS SHIP FOR FREE.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="30px 0 0 0">
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Coffee</a>
+                </mj-text>
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Tea</a>
+                </mj-text>
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Subscriptions</a>
+                </mj-text>
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Gear</a>
+                </mj-text>
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Visit Us</a>
+                </mj-text>
+                <mj-divider border-color="#d8d8d8" border-width="1px" padding="0 12px"/>
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="rgb(147,112,49)" text-transform="uppercase" padding="12px 0 12px 0" css-class="anchor-no-underline">
+                    <a href="http://example.com" target="blank">Learn</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#937031">
+            <mj-column padding="0" width="90%">
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="#ffffff" background-color="#937031" text-transform="uppercase" padding="15px 0">
+                    Unlock 15% off when you sign up for texts
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="0">
+                <mj-spacer height="15px" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#937031">
+            <mj-column padding="0" width="90%">
+                <mj-text align="center" font-family="arial, sans-serif, helvetica" font-size="13px" letter-spacing="2px" line-height="1.5" color="#ffffff" background-color="#937031" text-transform="uppercase" padding="15px 0">
+                    Refer a friend, get free coffee
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="30px 0 50px 0" background-color="#ffffff">
+            <mj-group css-class="footer-icons">
+                <mj-column padding="0" >
+                    <mj-image src="https://i.postimg.cc/d1T9NJXw/instagram-icon.png" alt="Instagram Icon" href="http://example.com" width="24px" padding="0" />
+                </mj-column>
+                <mj-column padding="0" >
+                    <mj-image src="https://i.postimg.cc/Dwjd2W37/facebook-icon.png" alt="Instagram Icon" href="http://example.com" width="24px" padding="0" />
+                </mj-column>
+                <mj-column padding="0" >
+                    <mj-image src="https://i.postimg.cc/tRW5hCWz/twitter-icon.png" alt="Twitter Icon" href="http://example.com" width="24px" padding="0" />
+                </mj-column>
+                <mj-column padding="0" >
+                    <mj-image src="https://i.postimg.cc/8zPmQR3y/tick-tock-icon.png" alt="Tick Tock Icon" href="http://example.com" width="24px" padding="0" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column padding="0" width="90%" css-class="small-screens">
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing="1px" line-height="1.75" color="#222222" background-color="#937031" text-transform="uppercase" padding="15px 0 0 0">
+                    10% OFF AND FREE GROUND SHIPPING FOR NEW EMAIL SUBSCRIBERS.
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 50px 0">
+                    Valid online only at <a href="http://example.com" color="#15c" target="blank">www.peets.com</a>.&nbsp;Offer expires at 11:59 PM PT on 8/25/2023.&nbsp;Discount taken in cart when your unique promo code&nbsp;<b>WLC-2xb6qv</b> is entered at checkout. Valid for 10% off and free domestic ground shipping in the US only, excluding taxes and other fees. Valid only on standard, one-time orders, excluding subscriptions. Code is single use and may only be used once. Limited to stock on hand.&nbsp;Cannot be combined with any other offer or discount. Not valid in Peet's coffeebars, retail locations, or grocery stores. Does not apply to Peet's Cards (Gift Cards).&nbsp;Excludes&nbsp;the Baratza Burr Grinder. No adjustments, transfers, substitutions, cash value, or rain checks.&nbsp;Does not apply to expedited or international shipping options.&nbsp;Entire order must be shipped to a single address and customer is responsible for shipping costs of returned merchandise. Additional terms and exclusions may apply. Peets.com purchases are not eligible for Peetnik Rewards points. Peet's reserves the right to modify or terminate this offer at any time without notice.&nbsp;
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 15px 0" css-class="anchor">
+                    Can't see the pictures? <a href="http://example.com" color="#15c" target="blank">View web version.</a>
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 15px 0" css-class="anchor">
+                    <a href="http://example.com" target="blank">Private Policy</a>&nbsp;&nbsp; |&nbsp; &nbsp;<a href="http://example.com" target="blank">Unsubscribe</a>
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 15px 0" css-class="anchor">
+                    You received this email at&nbsp;<a href="http://example.com" target="_blank" title="Email" data-link-name="example@gmail.com">example@gmail.com</a> because you signed up for our newsletter.<br>Received this message from a friend and want to receive the latest news from Peet's? <a href="http://example.com" target="_blank">Click here to sign up</a>.
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 15px 0" css-class="anchor">
+                    Visit our <a href="http://example.com" target="_blank">Help Center</a> to find helpful tips and get answers to your commonly asked questions.<br>Still need help? <a href="http://example.com" target="_blank">Click here to get in touch</a> with someone from our Customer Experience team.<br>Our business hours are Monday - Friday. 6am - 6pm PT.
+                </mj-text>
+                <mj-text align="center" font-family="serif, helvetica" font-size="10px" letter-spacing=".8px" line-height="1.75" color="#222222" background-color="#937031" padding="0 0 15px 0" css-class="anchor">
+                    ©2023 Peet’s Coffee Inc.<br>1400 Park Avenue<br>Emeryville, CA 94608
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
