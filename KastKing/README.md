@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks solution
+# KastKing Promotional Email
 
 This is an HTML email template that I built using the MJML framework.
 
