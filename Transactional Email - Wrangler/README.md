@@ -14,7 +14,7 @@ This is an HTML email template that I built using HTML, inline CSS, and HTML Tab
 
 ### Screenshot
 
-![](./images/Wrangler-screenshot.jpg)
+![](./Images/Wrangler-screenshot.jpg)
 
 ### Links
 
