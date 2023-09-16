@@ -1,4 +1,4 @@
-# Wrangler Promotional Email
+# Wrangler Transactional Email
 
 This is an HTML email template that I built using HTML, inline CSS, and HTML Tables.
 
