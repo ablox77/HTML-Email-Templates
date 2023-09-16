@@ -1,0 +1,132 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" />
+        <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+        <mj-style inline="inline">
+            .font-style-poppins a {
+                color: #ffffff;
+                font-size: 15px;
+                line-height: 150%;
+                font-weight: bold;
+                text-decoration: underline;
+                font-family: "Poppins", sans-serif;
+                padding: 0;
+                text-align: right;
+            }
+            .font-style-inter a {
+                color: #ffffff;
+                font-size: 15px;
+                line-height: 150%;
+                text-decoration: underline;
+                font-family: "Inter", sans-serif;
+                padding: 0;
+            }
+            .footer-width {
+                max-width: 540px;
+            }
+            .header-nav a {
+                text-align: right;
+            }
+            .social-icons {
+                max-width: 115px;
+                padding: 0 0 20px 0;
+            }
+        </mj-style>
+        <mj-style>
+            * {
+                box-sizing: border-box;
+            }
+            .header-navbar {
+                color: #ffffff;
+
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body width="640px" background-color="#f2f2f2">
+        <mj-section background-color="black"  padding="0">
+            <mj-column vertical-align="middle" padding="20px 0" width="35%">
+                <mj-image src="https://i.postimg.cc/Bb0vWCht/logo-head.png" alt="KastKing logo" href="https://example.com" width="180px" padding="0" />
+            </mj-column>
+            <mj-column vertical-align="middle" padding="20px 0" width="65%">
+                <mj-text color="#ffffff" font-size="15px" font-family="'Poppins', sans-serif" line-height="150%" font-weight="bold" css-class="font-style-poppins" padding="0" align="center">
+                        <a href="https://example.com">Reels</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+                        <a href="https://example.com" >Rods</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+                        <a href="https://example.com" >Line</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+                        <a href="https://example.com" >Tackle</a>
+                    </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/rsjMB20Y/image1.jpg" alt="Fishing Reel Image 20% off Code: KKKE20"  href="https://example.com" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/W4qphyCh/image1-5.jpg" alt="Fishing Reel Image"  href="https://example.com" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/dQjskrHm/image2.jpg" alt="Fishing Reel Image"  href="https://example.com" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/XYJY0qgK/large-frame-heading-img.jpg" alt="Large Frame, High Capacity, Loe Profile Img"  href="https://example.com" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/mDQbSHb4/image3.jpg" alt="Fishing Reel Img"  href="https://example.com" padding="0" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="60px 0" background-color="black">
+            <mj-column padding="0">
+                <mj-text color="#ffffff" font-size="25px" font-family="'Poppins', sans-serif" letter-spacing="1px" font-weight="400" padding="0" align="center">
+                    <p>TIPS FOR CHOOSING</p>
+                    <p>SALTWATER BAITCASTER REEL</p>
+                </mj-text>
+                <mj-button href="https://example.com" padding="20px 0 0 0">
+                    Learn More
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0 0 20px 0" background-color="black">
+            <mj-column padding="0">
+                <mj-image src="https://i.postimg.cc/Znx5JygH/logo-foot.png" alt="KastKing Logo"  href="https://example.com" padding="0" width="200px" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="black">
+            <mj-group css-class="social-icons">
+                <mj-column padding="0">
+                    <mj-image src="https://i.postimg.cc/HkhsWmSq/facebook-icon.png" alt="Facebook icon" href="https://example.com" width="25px" padding="0" />
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image src="https://i.postimg.cc/sXS20L4t/instagram-icon.png" alt="Instagram icon" href="https://example.com" width="25px" padding="0" />
+                </mj-column>
+                <mj-column padding="0">
+                    <mj-image src="https://i.postimg.cc/7YXZc0SY/youtube-icon.png" alt="Youtube icon" href="https://example.com" width="25px" padding="0" />
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section padding="0" background-color="black">
+            <mj-column padding="0" css-class="footer-width">
+                <mj-text color="#ffffff" font-size="15px" font-family="'Inter', sans-serif" line-height="175%" font-weight="bold" padding="0" align="center" background-color="black">
+                    KastKing
+                </mj-text>
+                <mj-text color="#ffffff" font-size="15px" font-family="'Inter', sans-serif" line-height="175%" font-weight="400" padding="0" align="center" background-color="black">
+                    425 Oak Street, Unit A, Garden City
+                    <br>
+                    United States of America
+                </mj-text>
+                <mj-text color="#ffffff" font-size="15px" font-family="'Inter', sans-serif" line-height="175%" font-weight="400" padding="10px 0 0 0" align="center" background-color="black">
+                    You received this email because you signed up on our website or made a purchase from us.
+                </mj-text>
+                <mj-text color="#ffffff" font-size="15px" font-family="'Inter', sans-serif" line-height="150%" font-weight="400" padding="10px 0 20px 0" css-class="font-style-inter" align="center" background-color="black">
+                    <a href="http://example.com">Unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
