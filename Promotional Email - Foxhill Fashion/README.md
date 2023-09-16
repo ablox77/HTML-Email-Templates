@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with alternating feature blocks solution
+# Foxhill Fashion Promotional Email
 
 This is an HTML email template that I built using HTML, inline CSS, and HTML Tables.
 
